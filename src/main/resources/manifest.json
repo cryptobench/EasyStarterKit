@@ -1,0 +1,11 @@
+{
+  "Group": "cryptobench",
+  "Name": "EasyStarterKit",
+  "Version": "1.0.0",
+  "Main": "com.easystarterkit.EasyStarterKit",
+  "Description": "Give new players a starter inventory kit on first join - /easystarterkit set to save your inventory as the kit!",
+  "Authors": [],
+  "Website": "",
+  "Dependencies": {},
+  "OptionalDependencies": {}
+}
